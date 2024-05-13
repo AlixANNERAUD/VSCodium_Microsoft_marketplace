@@ -5,5 +5,5 @@ This is a simple script use the Microsoft VSCode marketplace in VSCodium.
 Just run the script :
 
 ```bash
-sh Install.sh
+sudo sh Install.sh
 ```
