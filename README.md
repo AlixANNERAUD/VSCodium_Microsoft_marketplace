@@ -7,3 +7,5 @@ Just run the script :
 ```bash
 sudo sh Install.sh
 ```
+
+Since this settings are overwritten by the VSCodium updates, you have to run the script again after each update.
